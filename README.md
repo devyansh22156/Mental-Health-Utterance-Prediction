@@ -4,8 +4,6 @@ This repository implements a **Retrieval-Augmented Generation (RAG)** pipeline u
 
 ---
 
----
-
 ## Project Overview
 
 With rising awareness around mental health, automated supportive dialogue systems can provide immediate empathetic responses. In this work, we build a pipeline that:
