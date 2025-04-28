@@ -98,8 +98,8 @@ Detailed breakdown of notebook cells:
 
 | Metric | Score |
 |--------|-------|
-| BLEU   | 0.XX  |
-| ROUGE-L| 0.XX  |
+| BLEU   | 0.0380  |
+| ROUGE-L| 0.8426  |
 
 > *Results placeholder; populate after running fine-tuning.*
 
