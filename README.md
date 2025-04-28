@@ -67,7 +67,7 @@ Detailed breakdown of notebook cells:
 
 *Currently, no external data is included.*
 
-- **Utterance Corpus**: a collection of supportive mental health responses used as the knowledge base. (To be added as `data/utterances.csv`)
+- **Utterance Corpus**: a collection of supportive mental health responses used as the knowledge base https://drive.google.com/drive/folders/1xExIqux-LgHcK5MLU1A7SUO0We-zVQWW?usp=drive_link.
 
 ---
 
